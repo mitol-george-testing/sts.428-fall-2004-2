@@ -1,0 +1,42 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Modern History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "848b0b45-1e20-ba72-ae02-d3838cd12ff5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Technology and Change in Rural America",
+  "course_description": "This course considers the historical dimensions of rural production from subsistence to industrialization, both in America and in an international context, with an emphasis on the role of science and technology. Topics include changing notions of progress; emergence of genetics and its complex applications to food production; mechanization of both farm practices and the food industry; role of migrant labor; management theory and its impact on farm practice; role of federal governments and NGOs in production systems; women in food production systems; and the green revolution.\n",
+  "department_numbers": [
+    "STS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "STS.428",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
